@@ -1,4 +1,14 @@
+# models
+CLIP-Adapter
 CLIP-LoRA
+ProLIP
+SO
+LDC
+
+# stuff
 __pycache__/
 CLAUDE.md
+
+RECOMMENDATIONS.md
+
 
